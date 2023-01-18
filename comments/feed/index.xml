@@ -4,37 +4,34 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	
 	>
 <channel>
 	<title>
-	Comments for wllpower	</title>
-	<atom:link href="/comments/feed/?simply_static_page=1314" rel="self" type="application/rss+xml" />
+	Comments for test	</title>
+	<atom:link href="http://10.23.30.20/comments/feed/?simply_static_page=188" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Achieve your goals. Together.</description>
-	<lastBuildDate>Wed, 26 Aug 2020 00:04:08 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Fri, 07 May 2021 09:38:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		Comment on Massa Sapien Faucibus Etmolestie by A WordPress Commenter		</title>
+		<link>/2021/05/07/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2020 00:04:05 +0000</pubDate>
-		<guid isPermaLink="false">http://wllpower.com/?p=1#comment-1</guid>
+		<pubDate>Fri, 07 May 2021 09:38:43 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/yogi/?p=1#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
 			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
